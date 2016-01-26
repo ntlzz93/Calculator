@@ -1,4 +1,4 @@
-# Calculator using flex&bison and  dot format
+# Calculator using flex&bison and graphviz dot format
 a calculator program that allows the use of real number constants and generate to graphviz dot format
 ﻿![Calculator using flex&bison](https://github.com/Flex-Bison/Calculator/blob/master/Calculator/outfile.png)
 * calculator in flex-bison
