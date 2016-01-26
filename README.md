@@ -1,5 +1,5 @@
-# Calculator
-a calculator program that allows the use of real number constants and generate to graphviz dot formate
+# Calculator using flex&bison and  dot format
+a calculator program that allows the use of real number constants and generate to graphviz dot format
 ﻿![Calculator using flex&bison](https://github.com/Flex-Bison/Calculator/blob/master/Calculator/outfile.png)
 * calculator in flex-bison
 * To make this file, "yacc -d clac.y" and "flex clac.l "  let you make file  into y.tab.c & y.tab.h lex.yy.c
