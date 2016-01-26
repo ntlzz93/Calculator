@@ -1,7 +1,6 @@
 # Calculator
 a calculator program that allows the use of real number constants and generate to graphviz dot formate
 ﻿![Calculator using flex&bison](https://github.com/Flex-Bison/Calculator/blob/master/Calculator/outfile.png)
-/**********************************************************************
 * calculator in flex-bison
 * To make this file, "yacc -d clac.y" and "flex clac.l "  let you make file  into y.tab.c & y.tab.h lex.yy.c
 * and "gcc lex.yy.c y.tab.c -lfl -o thangdn" to generate an executable file
@@ -18,4 +17,3 @@ a calculator program that allows the use of real number constants and generate t
 * If you want to use parts of any code of mine:
 * let me know and
 * use it!
-**********************************************************************/
